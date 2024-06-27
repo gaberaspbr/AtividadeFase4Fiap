@@ -1,0 +1,49 @@
+/* Aluno - Flavio Gabriel de Andrade
+RM - 556363
+Turma - 1TDSOE-2024
+Cap 9 - Muito estilo sem sofrimento e Rede Social dos Desenvolvedores */
+p {
+    margin: 0;
+}
+
+.avatar {
+    border-radius: 50%;
+    width: 50px;;
+}
+
+.pizza {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-image: conic-gradient(
+        orange 60deg, 
+        darkorange 0 120deg, 
+        purple 0 180deg,
+        yellow 0 240deg,
+        lightgreen 0 300deg,
+        lightblue 0 315deg);
+}
+
+.fonte-laranja{
+    color: orange;
+}
+
+.fonte-laranja-escuro{
+    color: darkorange;
+}
+
+.fonte-purpura{
+    color: purple;
+}
+
+.fonte-amarela{
+    color: yellow;
+}
+
+.fonte-verde-claro{
+    color: lightgreen;
+}
+
+.fonte-azul-claro{
+    color: lightblue;
+}
